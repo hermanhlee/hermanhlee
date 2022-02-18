@@ -1,6 +1,6 @@
 ## Heyo! 👋
 
-I'm Herman, a boy from (and based in) Norway trying to learn Web Dev!
+Im Herman, a boy from (and based in) Norway trying to learn Web Dev!
 
 ### Skills
 
