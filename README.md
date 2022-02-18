@@ -4,7 +4,7 @@ Im Herman, a boy from (and based in) Norway trying to learn Web & App Dev in hop
 
 ### Skills
 
-Basic HTML, CSS and Javascrip🌐
+Basic HTML, CSS and Javascript🌐
 
 ### Projects
 
