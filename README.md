@@ -8,4 +8,4 @@ Basic HTML, CSS and Javascript🌐
 
 ### Projects
 
-🚧Work in progress!🚧
+Im currently working on my very first project, hermanhlee/odin-recipes!
