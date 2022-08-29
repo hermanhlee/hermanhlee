@@ -1,11 +1,13 @@
 ## Heyo! 👋
 
-Im Herman, a boy from Norway trying to learn Web & App Dev in hopes of one day getting a job as a Software Engineer💻💻
+Im Herman, a boy from Norway learning Web Dev in hopes of one day getting a job as a Software Engineer💻💻
 
 ### Skills
 
-Basic HTML, CSS and Javascript🌐
+- HTML
+- CSS
+- Javascript, with React framework
 
 ### Projects
 
-Im currently working on my very first project, hermanhlee/odin-recipes!
+My current projects are part of The Odin Projects' curriculum, like hermanhlee/odin-recipes and hermanhlee/odin-landing-page
