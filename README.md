@@ -6,7 +6,7 @@ Im Herman, a boy from Norway learning Web Dev in hopes of one day getting a job 
 
 - HTML
 - CSS
-- Javascript, with React framework
+- Javascript
 
 ### Projects
 
