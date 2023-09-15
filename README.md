@@ -1,4 +1,4 @@
-## Heyo! 👋
+## Hey!
 
 Im Herman, a boy from Norway learning Web Dev in hopes of one day getting a job as a Software Engineer💻💻
 
